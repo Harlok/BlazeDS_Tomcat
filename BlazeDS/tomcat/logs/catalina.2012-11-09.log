@@ -1,0 +1,1498 @@
+Nov 09, 2012 10:33:18 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 10:33:25 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 09, 2012 10:33:33 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 10:51:38 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\java\jdk\jdk1.7.0_07\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Broadcom\Broadcom 802.11\Driver;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Windows Live\Shared;.
+Nov 09, 2012 10:51:39 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 10:51:39 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1101 ms
+Nov 09, 2012 10:51:39 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 09, 2012 10:51:39 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.14
+Nov 09, 2012 10:51:48 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 10:51:49 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Nov 09, 2012 10:51:49 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/79  config=null
+Nov 09, 2012 10:51:49 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 10019 ms
+Nov 09, 2012 3:44:04 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 3:44:06 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 09, 2012 3:44:14 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 3:46:12 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\java\jdk\jdk1.7.0_07\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Broadcom\Broadcom 802.11\Driver;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Windows Live\Shared;.
+Nov 09, 2012 3:46:12 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 3:46:12 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 874 ms
+Nov 09, 2012 3:46:13 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 09, 2012 3:46:13 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.14
+Nov 09, 2012 3:46:21 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 3:46:21 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Nov 09, 2012 3:46:21 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/32  config=null
+Nov 09, 2012 3:46:21 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 8664 ms
+Nov 09, 2012 3:52:24 PM org.hibernate.annotations.common.Version <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+Nov 09, 2012 3:52:24 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {4.1.7.Final}
+Nov 09, 2012 3:52:24 PM org.hibernate.cfg.Environment <clinit>
+INFO: HHH000206: hibernate.properties not found
+Nov 09, 2012 3:52:24 PM org.hibernate.cfg.Environment buildBytecodeProvider
+INFO: HHH000021: Bytecode provider name : javassist
+Nov 09, 2012 3:52:25 PM org.hibernate.cfg.Configuration configure
+INFO: HHH000043: Configuring from resource: /hibernate.cfg.xml
+Nov 09, 2012 3:52:25 PM org.hibernate.cfg.Configuration getConfigurationInputStream
+INFO: HHH000040: Configuration resource: /hibernate.cfg.xml
+Nov 09, 2012 3:52:25 PM org.hibernate.cfg.Configuration doConfigure
+INFO: HHH000041: Configured SessionFactory: null
+Nov 09, 2012 3:52:25 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000402: Using Hibernate built-in connection pool (not for production use!)
+Nov 09, 2012 3:52:25 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000115: Hibernate connection pool size: 10
+Nov 09, 2012 3:52:25 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000006: Autocommit mode: false
+Nov 09, 2012 3:52:25 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/sports2]
+Nov 09, 2012 3:52:25 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000046: Connection properties: {user=root, password=****}
+Nov 09, 2012 3:52:27 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+Nov 09, 2012 3:52:27 PM org.hibernate.engine.transaction.internal.TransactionFactoryInitiator initiateService
+INFO: HHH000399: Using default transaction strategy (direct JDBC transactions)
+Nov 09, 2012 3:52:27 PM org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory <init>
+INFO: HHH000397: Using ASTQueryTranslatorFactory
+Nov 09, 2012 3:52:28 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000228: Running hbm2ddl schema update
+Nov 09, 2012 3:52:28 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000102: Fetching database metadata
+Nov 09, 2012 3:52:28 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000396: Updating schema
+Nov 09, 2012 3:52:29 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.event_match
+Nov 09, 2012 3:52:29 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, courtno, eventid, team1, timeslot, team2]
+Nov 09, 2012 3:52:29 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk7c198ba01336989c, fk7c198ba035fb745e, fk7c198ba01336989b]
+Nov 09, 2012 3:52:29 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk7c198ba01336989c, primary, fk7c198ba035fb745e, fk7c198ba01336989b]
+Nov 09, 2012 3:52:29 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.event_teams
+Nov 09, 2012 3:52:29 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, teamid, lost, pool, won, eventid, pos]
+Nov 09, 2012 3:52:29 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk7c7dbb91d853bb5f, fk7c7dbb9135fb745e]
+Nov 09, 2012 3:52:29 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk7c7dbb91d853bb5f, primary, fk7c7dbb9135fb745e]
+Nov 09, 2012 3:52:29 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.invitations
+Nov 09, 2012 3:52:29 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [response, id, fromplayerid, teamid, status, toplayerid, eventid, frommessage]
+Nov 09, 2012 3:52:29 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk41923da7d2c0ada, fk41923da35fb745e, fk41923dad853bb5f, fk41923daedd37509]
+Nov 09, 2012 3:52:29 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fk41923da7d2c0ada, fk41923da35fb745e, fk41923dad853bb5f, fk41923daedd37509]
+Nov 09, 2012 3:52:29 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.leagues
+Nov 09, 2012 3:52:29 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, orgid, hasseasonteams, name, volleytypeid]
+Nov 09, 2012 3:52:29 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk2dcd80047fbb2d90, fk2dcd80047b16aeff]
+Nov 09, 2012 3:52:29 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk2dcd80047fbb2d90, primary, fk2dcd80047b16aeff]
+Nov 09, 2012 3:52:29 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.league_admins
+Nov 09, 2012 3:52:29 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, role, playerid, leagueid]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkbede8f148238a75f, fkbede8f14295c211f]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fkbede8f148238a75f, primary, fkbede8f14295c211f]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.league_seasons
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, starttime, startdate, setcount, name, courtcount, settime, setpoints, defaultlocation_id, leagueid, enddate]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkd633cbc0295c211f, fkd633cbc05a524ad3]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fkd633cbc0295c211f, primary, fkd633cbc05a524ad3]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.locations
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, address, zipcode, name, province, googlemapsurl, longitude, latitude, country, city]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.match_set
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, setno, setpoints, scoreteam2, matchid, scoreteam1]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkcac4f6a8de125799]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fkcac4f6a8de125799]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.organizations
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, name_short, name_long]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.players
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, sex, phone, height, email, zipcode, birthdate, lastname, longitude, latitude, firstname, password]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_availabilities
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [endtime, id, starttime, playerid, dayofweek]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkb2600578238a75f]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fkb2600578238a75f]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_level_interest
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, maxlevelid, volleytypeid, playerid, minlevelid]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk8413d6c38238a75f, fk8413d6c3ec79b344, fk8413d6c37fd16a96, fk8413d6c37b16aeff]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk8413d6c38238a75f, fk8413d6c3ec79b344, primary, fk8413d6c37fd16a96, fk8413d6c37b16aeff]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_volley_pos
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, powerpos, centerpos, setterpos, player_id, techpos, leftside, rightside, liberopos]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk5c187f80a2a012dc]
+Nov 09, 2012 3:52:30 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fk5c187f80a2a012dc]
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.season_events
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, leagueid, date]
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fked027df5561560fc]
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fked027df5561560fc, primary]
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.season_teams
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [teamid, seasonid]
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk8c91dd3ad853bb5f, fk8c91dd3a2de41cb0]
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk8c91dd3ad853bb5f, fk8c91dd3a2de41cb0]
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.teams
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, name]
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.team_players
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, teamid, role, playerid]
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fke11981b0d853bb5f, fke11981b08238a75f]
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fke11981b0d853bb5f, primary, fke11981b08238a75f]
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.volley_levels
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, skilllevel, name]
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.volley_types
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, sex, playercount, name_short, env, name_long]
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_league_interest
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [leagueseasonid, playerid]
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk654c99dc880acfdf, fk654c99dc8238a75f]
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk654c99dc880acfdf, fk654c99dc8238a75f]
+Nov 09, 2012 3:52:31 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000232: Schema update complete
+Nov 09, 2012 3:52:31 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+WARN: SQL Error: 1054, SQLState: 42S22
+Nov 09, 2012 3:52:31 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+ERROR: Unknown column 'NaN' in 'field list'
+Nov 09, 2012 4:47:17 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 4:47:18 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 09, 2012 4:47:20 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 4:47:22 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\java\jdk\jdk1.7.0_07\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Broadcom\Broadcom 802.11\Driver;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Windows Live\Shared;.
+Nov 09, 2012 4:47:22 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 4:47:22 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1102 ms
+Nov 09, 2012 4:47:23 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 09, 2012 4:47:23 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.14
+Nov 09, 2012 4:47:32 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 4:47:32 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Nov 09, 2012 4:47:32 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/32  config=null
+Nov 09, 2012 4:47:32 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 9206 ms
+Nov 09, 2012 4:47:53 PM org.hibernate.annotations.common.Version <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+Nov 09, 2012 4:47:53 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {4.1.7.Final}
+Nov 09, 2012 4:47:53 PM org.hibernate.cfg.Environment <clinit>
+INFO: HHH000206: hibernate.properties not found
+Nov 09, 2012 4:47:53 PM org.hibernate.cfg.Environment buildBytecodeProvider
+INFO: HHH000021: Bytecode provider name : javassist
+Nov 09, 2012 4:47:53 PM org.hibernate.cfg.Configuration configure
+INFO: HHH000043: Configuring from resource: /hibernate.cfg.xml
+Nov 09, 2012 4:47:53 PM org.hibernate.cfg.Configuration getConfigurationInputStream
+INFO: HHH000040: Configuration resource: /hibernate.cfg.xml
+Nov 09, 2012 4:47:53 PM org.hibernate.cfg.Configuration doConfigure
+INFO: HHH000041: Configured SessionFactory: null
+Nov 09, 2012 4:47:54 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000402: Using Hibernate built-in connection pool (not for production use!)
+Nov 09, 2012 4:47:54 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000115: Hibernate connection pool size: 10
+Nov 09, 2012 4:47:54 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000006: Autocommit mode: false
+Nov 09, 2012 4:47:54 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/sports2]
+Nov 09, 2012 4:47:54 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000046: Connection properties: {user=root, password=****}
+Nov 09, 2012 4:47:54 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+Nov 09, 2012 4:47:54 PM org.hibernate.engine.transaction.internal.TransactionFactoryInitiator initiateService
+INFO: HHH000399: Using default transaction strategy (direct JDBC transactions)
+Nov 09, 2012 4:47:54 PM org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory <init>
+INFO: HHH000397: Using ASTQueryTranslatorFactory
+Nov 09, 2012 4:47:55 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000228: Running hbm2ddl schema update
+Nov 09, 2012 4:47:55 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000102: Fetching database metadata
+Nov 09, 2012 4:47:55 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000396: Updating schema
+Nov 09, 2012 4:47:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.event_match
+Nov 09, 2012 4:47:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, courtno, eventid, team1, timeslot, team2]
+Nov 09, 2012 4:47:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk7c198ba01336989c, fk7c198ba035fb745e, fk7c198ba01336989b]
+Nov 09, 2012 4:47:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk7c198ba01336989c, primary, fk7c198ba035fb745e, fk7c198ba01336989b]
+Nov 09, 2012 4:47:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.event_teams
+Nov 09, 2012 4:47:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, teamid, lost, pool, won, eventid, pos]
+Nov 09, 2012 4:47:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk7c7dbb91d853bb5f, fk7c7dbb9135fb745e]
+Nov 09, 2012 4:47:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk7c7dbb91d853bb5f, primary, fk7c7dbb9135fb745e]
+Nov 09, 2012 4:47:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.invitations
+Nov 09, 2012 4:47:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [response, id, fromplayerid, teamid, status, toplayerid, eventid, frommessage]
+Nov 09, 2012 4:47:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk41923da7d2c0ada, fk41923da35fb745e, fk41923dad853bb5f, fk41923daedd37509]
+Nov 09, 2012 4:47:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fk41923da7d2c0ada, fk41923da35fb745e, fk41923dad853bb5f, fk41923daedd37509]
+Nov 09, 2012 4:47:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.leagues
+Nov 09, 2012 4:47:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, orgid, hasseasonteams, name, volleytypeid]
+Nov 09, 2012 4:47:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk2dcd80047fbb2d90, fk2dcd80047b16aeff]
+Nov 09, 2012 4:47:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk2dcd80047fbb2d90, primary, fk2dcd80047b16aeff]
+Nov 09, 2012 4:47:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.league_admins
+Nov 09, 2012 4:47:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, role, playerid, leagueid]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkbede8f148238a75f, fkbede8f14295c211f]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fkbede8f148238a75f, primary, fkbede8f14295c211f]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.league_seasons
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, starttime, startdate, setcount, name, courtcount, settime, setpoints, defaultlocation_id, leagueid, enddate]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkd633cbc0295c211f, fkd633cbc05a524ad3]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fkd633cbc0295c211f, primary, fkd633cbc05a524ad3]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.locations
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, address, zipcode, name, province, googlemapsurl, longitude, latitude, country, city]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.match_set
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, setno, setpoints, scoreteam2, matchid, scoreteam1]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkcac4f6a8de125799]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fkcac4f6a8de125799]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.organizations
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, name_short, name_long]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.players
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, sex, phone, height, email, zipcode, birthdate, lastname, longitude, latitude, firstname, password]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_availabilities
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [endtime, id, starttime, playerid, dayofweek]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkb2600578238a75f]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fkb2600578238a75f]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_level_interest
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, maxlevelid, volleytypeid, playerid, minlevelid]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk8413d6c38238a75f, fk8413d6c3ec79b344, fk8413d6c37fd16a96, fk8413d6c37b16aeff]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk8413d6c38238a75f, fk8413d6c3ec79b344, primary, fk8413d6c37fd16a96, fk8413d6c37b16aeff]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_volley_pos
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, powerpos, centerpos, setterpos, player_id, techpos, leftside, rightside, liberopos]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk5c187f80a2a012dc]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fk5c187f80a2a012dc]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.season_events
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, leagueid, date]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fked027df5561560fc]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fked027df5561560fc, primary]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.season_teams
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [teamid, seasonid]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk8c91dd3ad853bb5f, fk8c91dd3a2de41cb0]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk8c91dd3ad853bb5f, fk8c91dd3a2de41cb0]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.teams
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, name]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.team_players
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, teamid, role, playerid]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fke11981b0d853bb5f, fke11981b08238a75f]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fke11981b0d853bb5f, primary, fke11981b08238a75f]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.volley_levels
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, skilllevel, name]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.volley_types
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, sex, playercount, name_short, env, name_long]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_league_interest
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [leagueseasonid, playerid]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk654c99dc880acfdf, fk654c99dc8238a75f]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk654c99dc880acfdf, fk654c99dc8238a75f]
+Nov 09, 2012 4:47:56 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000232: Schema update complete
+Nov 09, 2012 4:58:36 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 4:58:37 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 09, 2012 4:58:38 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 4:59:58 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\java\jdk\jdk1.7.0_07\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Broadcom\Broadcom 802.11\Driver;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Windows Live\Shared;.
+Nov 09, 2012 4:59:58 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 4:59:58 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 555 ms
+Nov 09, 2012 4:59:58 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 09, 2012 4:59:58 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.14
+Nov 09, 2012 5:00:04 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 5:00:04 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Nov 09, 2012 5:00:04 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/26  config=null
+Nov 09, 2012 5:00:04 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 6166 ms
+Nov 09, 2012 5:00:53 PM org.hibernate.annotations.common.Version <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+Nov 09, 2012 5:00:53 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {4.1.7.Final}
+Nov 09, 2012 5:00:53 PM org.hibernate.cfg.Environment <clinit>
+INFO: HHH000206: hibernate.properties not found
+Nov 09, 2012 5:00:53 PM org.hibernate.cfg.Environment buildBytecodeProvider
+INFO: HHH000021: Bytecode provider name : javassist
+Nov 09, 2012 5:00:53 PM org.hibernate.cfg.Configuration configure
+INFO: HHH000043: Configuring from resource: /hibernate.cfg.xml
+Nov 09, 2012 5:00:53 PM org.hibernate.cfg.Configuration getConfigurationInputStream
+INFO: HHH000040: Configuration resource: /hibernate.cfg.xml
+Nov 09, 2012 5:00:53 PM org.hibernate.cfg.Configuration doConfigure
+INFO: HHH000041: Configured SessionFactory: null
+Nov 09, 2012 5:00:53 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000402: Using Hibernate built-in connection pool (not for production use!)
+Nov 09, 2012 5:00:53 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000115: Hibernate connection pool size: 10
+Nov 09, 2012 5:00:53 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000006: Autocommit mode: false
+Nov 09, 2012 5:00:53 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/sports2]
+Nov 09, 2012 5:00:53 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000046: Connection properties: {user=root, password=****}
+Nov 09, 2012 5:00:54 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+Nov 09, 2012 5:00:54 PM org.hibernate.engine.transaction.internal.TransactionFactoryInitiator initiateService
+INFO: HHH000399: Using default transaction strategy (direct JDBC transactions)
+Nov 09, 2012 5:00:54 PM org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory <init>
+INFO: HHH000397: Using ASTQueryTranslatorFactory
+Nov 09, 2012 5:00:54 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000228: Running hbm2ddl schema update
+Nov 09, 2012 5:00:54 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000102: Fetching database metadata
+Nov 09, 2012 5:00:54 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000396: Updating schema
+Nov 09, 2012 5:00:54 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.event_match
+Nov 09, 2012 5:00:54 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, courtno, eventid, team1, timeslot, team2]
+Nov 09, 2012 5:00:54 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk7c198ba01336989c, fk7c198ba035fb745e, fk7c198ba01336989b]
+Nov 09, 2012 5:00:54 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk7c198ba01336989c, primary, fk7c198ba035fb745e, fk7c198ba01336989b]
+Nov 09, 2012 5:00:54 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.event_teams
+Nov 09, 2012 5:00:54 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, teamid, lost, pool, won, eventid, pos]
+Nov 09, 2012 5:00:54 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk7c7dbb91d853bb5f, fk7c7dbb9135fb745e]
+Nov 09, 2012 5:00:54 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk7c7dbb91d853bb5f, primary, fk7c7dbb9135fb745e]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.invitations
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [response, id, fromplayerid, teamid, status, toplayerid, eventid, frommessage]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk41923da7d2c0ada, fk41923da35fb745e, fk41923dad853bb5f, fk41923daedd37509]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fk41923da7d2c0ada, fk41923da35fb745e, fk41923dad853bb5f, fk41923daedd37509]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.leagues
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, orgid, hasseasonteams, name, volleytypeid]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk2dcd80047fbb2d90, fk2dcd80047b16aeff]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk2dcd80047fbb2d90, primary, fk2dcd80047b16aeff]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.league_admins
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, role, playerid, leagueid]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkbede8f148238a75f, fkbede8f14295c211f]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fkbede8f148238a75f, primary, fkbede8f14295c211f]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.league_seasons
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, starttime, startdate, setcount, name, courtcount, settime, setpoints, defaultlocation_id, leagueid, enddate]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkd633cbc0295c211f, fkd633cbc05a524ad3]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fkd633cbc0295c211f, primary, fkd633cbc05a524ad3]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.locations
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, address, zipcode, name, province, googlemapsurl, longitude, latitude, country, city]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.match_set
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, setno, setpoints, scoreteam2, matchid, scoreteam1]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkcac4f6a8de125799]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fkcac4f6a8de125799]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.organizations
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, name_short, name_long]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.players
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, sex, phone, height, email, zipcode, birthdate, lastname, longitude, latitude, firstname, password]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_availabilities
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [endtime, id, starttime, playerid, dayofweek]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkb2600578238a75f]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fkb2600578238a75f]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_level_interest
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, maxlevelid, volleytypeid, playerid, minlevelid]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk8413d6c38238a75f, fk8413d6c3ec79b344, fk8413d6c37fd16a96, fk8413d6c37b16aeff]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk8413d6c38238a75f, fk8413d6c3ec79b344, primary, fk8413d6c37fd16a96, fk8413d6c37b16aeff]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_volley_pos
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, powerpos, centerpos, setterpos, player_id, techpos, leftside, rightside, liberopos]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk5c187f80a2a012dc]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fk5c187f80a2a012dc]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.season_events
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, leagueid, date]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fked027df5561560fc]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fked027df5561560fc, primary]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.season_teams
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [teamid, seasonid]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk8c91dd3ad853bb5f, fk8c91dd3a2de41cb0]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk8c91dd3ad853bb5f, fk8c91dd3a2de41cb0]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.teams
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, name]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.team_players
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, teamid, role, playerid]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fke11981b0d853bb5f, fke11981b08238a75f]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fke11981b0d853bb5f, primary, fke11981b08238a75f]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.volley_levels
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, skilllevel, name]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.volley_types
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, sex, playercount, name_short, env, name_long]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_league_interest
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [leagueseasonid, playerid]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk654c99dc880acfdf, fk654c99dc8238a75f]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk654c99dc880acfdf, fk654c99dc8238a75f]
+Nov 09, 2012 5:00:55 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000232: Schema update complete
+Nov 09, 2012 5:02:59 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+WARN: SQL Error: 1062, SQLState: 23000
+Nov 09, 2012 5:02:59 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+ERROR: Duplicate entry 'lucchevalier75@gmail.com' for key 'email'
+Nov 09, 2012 5:22:49 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 5:22:50 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 09, 2012 5:22:51 PM org.apache.catalina.loader.WebappClassLoader loadClass
+INFO: Illegal access: this web application instance has been stopped already.  Could not load java.net.BindException.  The eventual following stack trace is caused by an error thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access, and has no functional impact.
+java.lang.IllegalStateException
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1244)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1204)
+	at com.mysql.jdbc.SQLError.createLinkFailureMessageBasedOnHeuristics(SQLError.java:1276)
+	at com.mysql.jdbc.exceptions.jdbc4.CommunicationsException.<init>(CommunicationsException.java:58)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1116)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3851)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:2196)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4401)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1411)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2787)
+	at java.lang.ref.Finalizer.invokeFinalizeMethod(Native Method)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:101)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:32)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:178)
+
+Nov 09, 2012 5:22:51 PM org.apache.catalina.loader.WebappClassLoader loadClass
+INFO: Illegal access: this web application instance has been stopped already.  Could not load com.mysql.jdbc.ProfilerEventHandlerFactory.  The eventual following stack trace is caused by an error thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access, and has no functional impact.
+java.lang.IllegalStateException
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1244)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1204)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4425)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1411)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2787)
+	at java.lang.ref.Finalizer.invokeFinalizeMethod(Native Method)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:101)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:32)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:178)
+
+Nov 09, 2012 5:22:51 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 5:22:56 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\java\jdk\jdk1.7.0_07\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Broadcom\Broadcom 802.11\Driver;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Windows Live\Shared;.
+Nov 09, 2012 5:22:56 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 5:22:56 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 557 ms
+Nov 09, 2012 5:22:56 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 09, 2012 5:22:56 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.14
+Nov 09, 2012 5:23:02 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 5:23:02 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Nov 09, 2012 5:23:02 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/30  config=null
+Nov 09, 2012 5:23:03 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 6117 ms
+Nov 09, 2012 5:29:37 PM org.hibernate.annotations.common.Version <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+Nov 09, 2012 5:29:37 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {4.1.7.Final}
+Nov 09, 2012 5:29:37 PM org.hibernate.cfg.Environment <clinit>
+INFO: HHH000206: hibernate.properties not found
+Nov 09, 2012 5:29:37 PM org.hibernate.cfg.Environment buildBytecodeProvider
+INFO: HHH000021: Bytecode provider name : javassist
+Nov 09, 2012 5:29:37 PM org.hibernate.cfg.Configuration configure
+INFO: HHH000043: Configuring from resource: /hibernate.cfg.xml
+Nov 09, 2012 5:29:37 PM org.hibernate.cfg.Configuration getConfigurationInputStream
+INFO: HHH000040: Configuration resource: /hibernate.cfg.xml
+Nov 09, 2012 5:29:37 PM org.hibernate.cfg.Configuration doConfigure
+INFO: HHH000041: Configured SessionFactory: null
+Nov 09, 2012 5:29:38 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000402: Using Hibernate built-in connection pool (not for production use!)
+Nov 09, 2012 5:29:38 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000115: Hibernate connection pool size: 10
+Nov 09, 2012 5:29:38 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000006: Autocommit mode: false
+Nov 09, 2012 5:29:38 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/sports2]
+Nov 09, 2012 5:29:38 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000046: Connection properties: {user=root, password=****}
+Nov 09, 2012 5:29:38 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+Nov 09, 2012 5:29:38 PM org.hibernate.engine.transaction.internal.TransactionFactoryInitiator initiateService
+INFO: HHH000399: Using default transaction strategy (direct JDBC transactions)
+Nov 09, 2012 5:29:38 PM org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory <init>
+INFO: HHH000397: Using ASTQueryTranslatorFactory
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000228: Running hbm2ddl schema update
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000102: Fetching database metadata
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000396: Updating schema
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.event_match
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, courtno, eventid, team1, timeslot, team2]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk7c198ba01336989c, fk7c198ba035fb745e, fk7c198ba01336989b]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk7c198ba01336989c, primary, fk7c198ba035fb745e, fk7c198ba01336989b]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.event_teams
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, teamid, lost, pool, won, eventid, pos]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk7c7dbb91d853bb5f, fk7c7dbb9135fb745e]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk7c7dbb91d853bb5f, primary, fk7c7dbb9135fb745e]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.invitations
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [response, id, fromplayerid, teamid, status, toplayerid, eventid, frommessage]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk41923da7d2c0ada, fk41923da35fb745e, fk41923dad853bb5f, fk41923daedd37509]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fk41923da7d2c0ada, fk41923da35fb745e, fk41923dad853bb5f, fk41923daedd37509]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.leagues
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, orgid, hasseasonteams, name, volleytypeid]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk2dcd80047fbb2d90, fk2dcd80047b16aeff]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk2dcd80047fbb2d90, primary, fk2dcd80047b16aeff]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.league_admins
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, role, playerid, leagueid]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkbede8f148238a75f, fkbede8f14295c211f]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fkbede8f148238a75f, primary, fkbede8f14295c211f]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.league_seasons
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, starttime, startdate, setcount, name, courtcount, settime, setpoints, defaultlocation_id, leagueid, enddate]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkd633cbc0295c211f, fkd633cbc05a524ad3]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fkd633cbc0295c211f, primary, fkd633cbc05a524ad3]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.locations
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, address, zipcode, name, province, googlemapsurl, longitude, latitude, country, city]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.match_set
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, setno, setpoints, scoreteam2, matchid, scoreteam1]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkcac4f6a8de125799]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fkcac4f6a8de125799]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.organizations
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, name_short, name_long]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.players
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, sex, phone, height, email, zipcode, birthdate, lastname, longitude, latitude, firstname, password]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [email, primary]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_availabilities
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [endtime, id, starttime, playerid, dayofweek]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkb2600578238a75f]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fkb2600578238a75f]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_level_interest
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, maxlevelid, volleytypeid, playerid, minlevelid]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk8413d6c38238a75f, fk8413d6c3ec79b344, fk8413d6c37fd16a96, fk8413d6c37b16aeff]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk8413d6c38238a75f, fk8413d6c3ec79b344, primary, fk8413d6c37fd16a96, fk8413d6c37b16aeff]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_volley_pos
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, powerpos, centerpos, setterpos, player_id, techpos, leftside, rightside, liberopos]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk5c187f80a2a012dc]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fk5c187f80a2a012dc]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.season_events
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, leagueid, date]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fked027df5561560fc]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fked027df5561560fc, primary]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.season_teams
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [teamid, seasonid]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk8c91dd3ad853bb5f, fk8c91dd3a2de41cb0]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk8c91dd3ad853bb5f, fk8c91dd3a2de41cb0]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.teams
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, name]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.team_players
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, teamid, role, playerid]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fke11981b0d853bb5f, fke11981b08238a75f]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fke11981b0d853bb5f, primary, fke11981b08238a75f]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.volley_levels
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, skilllevel, name]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.volley_types
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, sex, playercount, name_short, env, name_long]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_league_interest
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [leagueseasonid, playerid]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk654c99dc880acfdf, fk654c99dc8238a75f]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk654c99dc880acfdf, fk654c99dc8238a75f]
+Nov 09, 2012 5:29:39 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000232: Schema update complete
+Nov 09, 2012 5:30:49 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+WARN: SQL Error: 1062, SQLState: 23000
+Nov 09, 2012 5:30:49 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+ERROR: Duplicate entry 'lucchevalier75@gmail.com' for key 'email'
+Nov 09, 2012 5:31:35 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+WARN: SQL Error: 1062, SQLState: 23000
+Nov 09, 2012 5:31:35 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+ERROR: Duplicate entry 'lucchevalier75@gmail.com' for key 'email'
+Nov 09, 2012 5:34:20 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 5:34:21 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 09, 2012 5:34:22 PM org.apache.catalina.loader.WebappClassLoader loadClass
+INFO: Illegal access: this web application instance has been stopped already.  Could not load com.mysql.jdbc.ProfilerEventHandlerFactory.  The eventual following stack trace is caused by an error thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access, and has no functional impact.
+java.lang.IllegalStateException
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1244)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1204)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4425)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1411)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2787)
+	at java.lang.ref.Finalizer.invokeFinalizeMethod(Native Method)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:101)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:32)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:178)
+
+Nov 09, 2012 5:34:22 PM org.apache.catalina.loader.WebappClassLoader loadClass
+INFO: Illegal access: this web application instance has been stopped already.  Could not load java.net.BindException.  The eventual following stack trace is caused by an error thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access, and has no functional impact.
+java.lang.IllegalStateException
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1244)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1204)
+	at com.mysql.jdbc.SQLError.createLinkFailureMessageBasedOnHeuristics(SQLError.java:1276)
+	at com.mysql.jdbc.exceptions.jdbc4.CommunicationsException.<init>(CommunicationsException.java:58)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1116)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3851)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:2196)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4401)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1411)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2787)
+	at java.lang.ref.Finalizer.invokeFinalizeMethod(Native Method)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:101)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:32)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:178)
+
+Nov 09, 2012 5:34:22 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 5:34:25 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\java\jdk\jdk1.7.0_07\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Broadcom\Broadcom 802.11\Driver;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Windows Live\Shared;.
+Nov 09, 2012 5:34:25 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 5:34:25 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 544 ms
+Nov 09, 2012 5:34:25 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 09, 2012 5:34:25 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.14
+Nov 09, 2012 5:34:31 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 5:34:31 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Nov 09, 2012 5:34:31 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/24  config=null
+Nov 09, 2012 5:34:31 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 6037 ms
+Nov 09, 2012 5:35:11 PM org.hibernate.annotations.common.Version <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+Nov 09, 2012 5:35:11 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {4.1.7.Final}
+Nov 09, 2012 5:35:11 PM org.hibernate.cfg.Environment <clinit>
+INFO: HHH000206: hibernate.properties not found
+Nov 09, 2012 5:35:11 PM org.hibernate.cfg.Environment buildBytecodeProvider
+INFO: HHH000021: Bytecode provider name : javassist
+Nov 09, 2012 5:35:11 PM org.hibernate.cfg.Configuration configure
+INFO: HHH000043: Configuring from resource: /hibernate.cfg.xml
+Nov 09, 2012 5:35:11 PM org.hibernate.cfg.Configuration getConfigurationInputStream
+INFO: HHH000040: Configuration resource: /hibernate.cfg.xml
+Nov 09, 2012 5:35:11 PM org.hibernate.cfg.Configuration doConfigure
+INFO: HHH000041: Configured SessionFactory: null
+Nov 09, 2012 5:35:12 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000402: Using Hibernate built-in connection pool (not for production use!)
+Nov 09, 2012 5:35:12 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000115: Hibernate connection pool size: 10
+Nov 09, 2012 5:35:12 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000006: Autocommit mode: false
+Nov 09, 2012 5:35:12 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/sports2]
+Nov 09, 2012 5:35:12 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000046: Connection properties: {user=root, password=****}
+Nov 09, 2012 5:35:12 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+Nov 09, 2012 5:35:12 PM org.hibernate.engine.transaction.internal.TransactionFactoryInitiator initiateService
+INFO: HHH000399: Using default transaction strategy (direct JDBC transactions)
+Nov 09, 2012 5:35:12 PM org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory <init>
+INFO: HHH000397: Using ASTQueryTranslatorFactory
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000228: Running hbm2ddl schema update
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000102: Fetching database metadata
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000396: Updating schema
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.event_match
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, courtno, eventid, team1, timeslot, team2]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk7c198ba01336989c, fk7c198ba035fb745e, fk7c198ba01336989b]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk7c198ba01336989c, primary, fk7c198ba035fb745e, fk7c198ba01336989b]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.event_teams
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, teamid, lost, pool, won, eventid, pos]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk7c7dbb91d853bb5f, fk7c7dbb9135fb745e]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk7c7dbb91d853bb5f, primary, fk7c7dbb9135fb745e]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.invitations
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [response, id, fromplayerid, teamid, status, toplayerid, eventid, frommessage]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk41923da7d2c0ada, fk41923da35fb745e, fk41923dad853bb5f, fk41923daedd37509]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fk41923da7d2c0ada, fk41923da35fb745e, fk41923dad853bb5f, fk41923daedd37509]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.leagues
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, orgid, hasseasonteams, name, volleytypeid]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk2dcd80047fbb2d90, fk2dcd80047b16aeff]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk2dcd80047fbb2d90, primary, fk2dcd80047b16aeff]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.league_admins
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, role, playerid, leagueid]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkbede8f148238a75f, fkbede8f14295c211f]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fkbede8f148238a75f, primary, fkbede8f14295c211f]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.league_seasons
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, starttime, startdate, setcount, name, courtcount, settime, setpoints, defaultlocation_id, leagueid, enddate]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkd633cbc0295c211f, fkd633cbc05a524ad3]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fkd633cbc0295c211f, primary, fkd633cbc05a524ad3]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.locations
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, address, zipcode, name, province, googlemapsurl, longitude, latitude, country, city]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.match_set
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, setno, setpoints, scoreteam2, matchid, scoreteam1]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkcac4f6a8de125799]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fkcac4f6a8de125799]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.organizations
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, name_short, name_long]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.players
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, sex, phone, height, email, zipcode, birthdate, lastname, longitude, latitude, firstname, password]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [email, primary]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_availabilities
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [endtime, id, starttime, playerid, dayofweek]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkb2600578238a75f]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fkb2600578238a75f]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_level_interest
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, maxlevelid, volleytypeid, playerid, minlevelid]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk8413d6c38238a75f, fk8413d6c3ec79b344, fk8413d6c37fd16a96, fk8413d6c37b16aeff]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk8413d6c38238a75f, fk8413d6c3ec79b344, primary, fk8413d6c37fd16a96, fk8413d6c37b16aeff]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_volley_pos
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, powerpos, centerpos, setterpos, player_id, techpos, leftside, rightside, liberopos]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk5c187f80a2a012dc]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fk5c187f80a2a012dc]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.season_events
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, leagueid, date]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fked027df5561560fc]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fked027df5561560fc, primary]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.season_teams
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [teamid, seasonid]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk8c91dd3ad853bb5f, fk8c91dd3a2de41cb0]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk8c91dd3ad853bb5f, fk8c91dd3a2de41cb0]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.teams
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, name]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.team_players
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, teamid, role, playerid]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fke11981b0d853bb5f, fke11981b08238a75f]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fke11981b0d853bb5f, primary, fke11981b08238a75f]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.volley_levels
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, skilllevel, name]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.volley_types
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, sex, playercount, name_short, env, name_long]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_league_interest
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [leagueseasonid, playerid]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk654c99dc880acfdf, fk654c99dc8238a75f]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk654c99dc880acfdf, fk654c99dc8238a75f]
+Nov 09, 2012 5:35:13 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000232: Schema update complete
+Nov 09, 2012 5:35:14 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+WARN: SQL Error: 1062, SQLState: 23000
+Nov 09, 2012 5:35:14 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+ERROR: Duplicate entry 'lucchevalier75@gmail.com' for key 'email'
+Nov 09, 2012 5:37:00 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+WARN: SQL Error: 1062, SQLState: 23000
+Nov 09, 2012 5:37:00 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+ERROR: Duplicate entry 'lucchevalier75@gmail.com' for key 'email'
+Nov 09, 2012 6:03:12 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 6:03:13 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 09, 2012 6:03:14 PM org.apache.catalina.loader.WebappClassLoader loadClass
+INFO: Illegal access: this web application instance has been stopped already.  Could not load java.net.BindException.  The eventual following stack trace is caused by an error thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access, and has no functional impact.
+java.lang.IllegalStateException
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1244)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1204)
+	at com.mysql.jdbc.SQLError.createLinkFailureMessageBasedOnHeuristics(SQLError.java:1276)
+	at com.mysql.jdbc.exceptions.jdbc4.CommunicationsException.<init>(CommunicationsException.java:58)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1116)
+	at com.mysql.jdbc.MysqlIO.send(MysqlIO.java:3851)
+	at com.mysql.jdbc.MysqlIO.quit(MysqlIO.java:2196)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4401)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1411)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2787)
+	at java.lang.ref.Finalizer.invokeFinalizeMethod(Native Method)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:101)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:32)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:178)
+
+Nov 09, 2012 6:03:14 PM org.apache.catalina.loader.WebappClassLoader loadClass
+INFO: Illegal access: this web application instance has been stopped already.  Could not load com.mysql.jdbc.ProfilerEventHandlerFactory.  The eventual following stack trace is caused by an error thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access, and has no functional impact.
+java.lang.IllegalStateException
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1244)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1204)
+	at com.mysql.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:4425)
+	at com.mysql.jdbc.ConnectionImpl.cleanup(ConnectionImpl.java:1411)
+	at com.mysql.jdbc.ConnectionImpl.finalize(ConnectionImpl.java:2787)
+	at java.lang.ref.Finalizer.invokeFinalizeMethod(Native Method)
+	at java.lang.ref.Finalizer.runFinalizer(Finalizer.java:101)
+	at java.lang.ref.Finalizer.access$100(Finalizer.java:32)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:178)
+
+Nov 09, 2012 6:03:14 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 6:03:16 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\java\jdk\jdk1.7.0_07\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Broadcom\Broadcom 802.11\Driver;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Windows Live\Shared;.
+Nov 09, 2012 6:03:16 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 6:03:16 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 551 ms
+Nov 09, 2012 6:03:16 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Nov 09, 2012 6:03:16 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.14
+Nov 09, 2012 6:03:22 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 6:03:23 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Nov 09, 2012 6:03:23 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/25  config=null
+Nov 09, 2012 6:03:23 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 6190 ms
+Nov 09, 2012 6:03:50 PM org.hibernate.annotations.common.Version <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+Nov 09, 2012 6:03:50 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {4.1.7.Final}
+Nov 09, 2012 6:03:50 PM org.hibernate.cfg.Environment <clinit>
+INFO: HHH000206: hibernate.properties not found
+Nov 09, 2012 6:03:50 PM org.hibernate.cfg.Environment buildBytecodeProvider
+INFO: HHH000021: Bytecode provider name : javassist
+Nov 09, 2012 6:03:50 PM org.hibernate.cfg.Configuration configure
+INFO: HHH000043: Configuring from resource: /hibernate.cfg.xml
+Nov 09, 2012 6:03:50 PM org.hibernate.cfg.Configuration getConfigurationInputStream
+INFO: HHH000040: Configuration resource: /hibernate.cfg.xml
+Nov 09, 2012 6:03:50 PM org.hibernate.cfg.Configuration doConfigure
+INFO: HHH000041: Configured SessionFactory: null
+Nov 09, 2012 6:03:51 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000402: Using Hibernate built-in connection pool (not for production use!)
+Nov 09, 2012 6:03:51 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000115: Hibernate connection pool size: 10
+Nov 09, 2012 6:03:51 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000006: Autocommit mode: false
+Nov 09, 2012 6:03:51 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/sports2]
+Nov 09, 2012 6:03:51 PM org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+INFO: HHH000046: Connection properties: {user=root, password=****}
+Nov 09, 2012 6:03:51 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+Nov 09, 2012 6:03:51 PM org.hibernate.engine.transaction.internal.TransactionFactoryInitiator initiateService
+INFO: HHH000399: Using default transaction strategy (direct JDBC transactions)
+Nov 09, 2012 6:03:51 PM org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory <init>
+INFO: HHH000397: Using ASTQueryTranslatorFactory
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000228: Running hbm2ddl schema update
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000102: Fetching database metadata
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000396: Updating schema
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.event_match
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, courtno, eventid, team1, timeslot, team2]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk7c198ba01336989c, fk7c198ba035fb745e, fk7c198ba01336989b]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk7c198ba01336989c, primary, fk7c198ba035fb745e, fk7c198ba01336989b]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.event_teams
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, teamid, lost, pool, won, eventid, pos]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk7c7dbb91d853bb5f, fk7c7dbb9135fb745e]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk7c7dbb91d853bb5f, primary, fk7c7dbb9135fb745e]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.invitations
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [response, id, fromplayerid, teamid, status, toplayerid, eventid, frommessage]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk41923da7d2c0ada, fk41923da35fb745e, fk41923dad853bb5f, fk41923daedd37509]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fk41923da7d2c0ada, fk41923da35fb745e, fk41923dad853bb5f, fk41923daedd37509]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.leagues
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, orgid, hasseasonteams, name, volleytypeid]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk2dcd80047fbb2d90, fk2dcd80047b16aeff]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk2dcd80047fbb2d90, primary, fk2dcd80047b16aeff]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.league_admins
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, role, playerid, leagueid]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkbede8f148238a75f, fkbede8f14295c211f]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fkbede8f148238a75f, primary, fkbede8f14295c211f]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.league_seasons
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, starttime, startdate, setcount, name, courtcount, settime, setpoints, defaultlocation_id, leagueid, enddate]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkd633cbc0295c211f, fkd633cbc05a524ad3]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fkd633cbc0295c211f, primary, fkd633cbc05a524ad3]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.locations
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, address, zipcode, name, province, googlemapsurl, longitude, latitude, country, city]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.match_set
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, setno, setpoints, scoreteam2, matchid, scoreteam1]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkcac4f6a8de125799]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fkcac4f6a8de125799]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.organizations
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, name_short, name_long]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.players
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, sex, phone, height, email, zipcode, birthdate, lastname, longitude, latitude, firstname, password]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [email, primary]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_availabilities
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [endtime, id, starttime, playerid, dayofweek]
+Nov 09, 2012 6:03:52 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fkb2600578238a75f]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fkb2600578238a75f]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_level_interest
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, maxlevelid, volleytypeid, playerid, minlevelid]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk8413d6c38238a75f, fk8413d6c3ec79b344, fk8413d6c37fd16a96, fk8413d6c37b16aeff]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk8413d6c38238a75f, fk8413d6c3ec79b344, primary, fk8413d6c37fd16a96, fk8413d6c37b16aeff]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_volley_pos
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, powerpos, centerpos, setterpos, player_id, techpos, leftside, rightside, liberopos]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk5c187f80a2a012dc]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary, fk5c187f80a2a012dc]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.season_events
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, leagueid, date]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fked027df5561560fc]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fked027df5561560fc, primary]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.season_teams
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [teamid, seasonid]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk8c91dd3ad853bb5f, fk8c91dd3a2de41cb0]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk8c91dd3ad853bb5f, fk8c91dd3a2de41cb0]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.teams
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, name]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.team_players
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, teamid, role, playerid]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fke11981b0d853bb5f, fke11981b08238a75f]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fke11981b0d853bb5f, primary, fke11981b08238a75f]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.volley_levels
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, skilllevel, name]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.volley_types
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [id, sex, playercount, name_short, env, name_long]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: []
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [primary]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000261: Table found: sports2.player_league_interest
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000037: Columns: [leagueseasonid, playerid]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000108: Foreign keys: [fk654c99dc880acfdf, fk654c99dc8238a75f]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.TableMetadata <init>
+INFO: HHH000126: Indexes: [fk654c99dc880acfdf, fk654c99dc8238a75f]
+Nov 09, 2012 6:03:53 PM org.hibernate.tool.hbm2ddl.SchemaUpdate execute
+INFO: HHH000232: Schema update complete
+Nov 09, 2012 6:03:53 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+WARN: SQL Error: 1062, SQLState: 23000
+Nov 09, 2012 6:03:53 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+ERROR: Duplicate entry 'lucchevalier75@gmail.com' for key 'email'
+Nov 09, 2012 6:26:01 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8400
+Nov 09, 2012 6:26:02 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Nov 09, 2012 6:26:03 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8400

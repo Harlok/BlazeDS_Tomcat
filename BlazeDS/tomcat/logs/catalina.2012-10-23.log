@@ -1,0 +1,30 @@
+Oct 23, 2012 10:49:52 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8400
+Oct 23, 2012 10:49:56 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Oct 23, 2012 10:50:47 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8400
+Oct 23, 2012 12:39:39 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\java\jdk\jdk1.7.0_07\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Broadcom\Broadcom 802.11\Driver;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\QuickTime\QTSystem\;.
+Oct 23, 2012 12:39:40 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8400
+Oct 23, 2012 12:39:40 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1367 ms
+Oct 23, 2012 12:39:40 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Oct 23, 2012 12:39:40 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.14
+Oct 23, 2012 12:39:52 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8400
+Oct 23, 2012 12:39:52 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Oct 23, 2012 12:39:52 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/52  config=null
+Oct 23, 2012 12:39:52 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 11902 ms
+Oct 23, 2012 6:13:40 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8400
+Oct 23, 2012 6:13:42 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Oct 23, 2012 6:13:54 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8400
